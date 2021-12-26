@@ -24,7 +24,7 @@
     "copytxt": "(cc0) 288x32 by cccv.de https://git.cccv.de/rc3/world-tiles/-/blob/master/rc3-2020/structures/mapUtilities.png"
   },
   {
-    "name": "c3gelb",
+    "name": "c3gelb.png",
     "copytxt": "CC-BY-SA CERT (cert.ccc.de)"
   },
   {
@@ -36,49 +36,17 @@
     "copytxt": "CC0"
   },
   {
-    "name": "alpine.png",
-    "copytxt": "(cc0) https://tiles.rc3.world/rc3-2020/structures/alpine.png"
-  },
-  {
-    "name": "dk_garden.png",
-    "copytxt": "(cc0) https://tiles.rc3.world/rc3-2020/structures/dk_garden.png"
-  },  
-  {
-    "name": "fairydust.png",
-    "copytxt": "(cc0) https://tiles.rc3.world/rc3-2020/structures/fairydust.png"
-  },
-  {
-    "name": "garden.png",
-    "copytxt": "(cc0) https://tiles.rc3.world/rc3-2020/structures/garden.png"
-  },
-  {
-    "name": "mapUtilities.png",
-    "copytxt": "(cc0) https://tiles.rc3.world/rc3-2020/structures/mapUtilities.png"
-  },
-  {
-    "name": "rc3-mullana-colors-128.png",
-    "copytxt": "(cc0) https://tiles.rc3.world/rc3-2020/structures/rc3-mullana-colors-128.png"
+    "name": "rc3-mullana-stars.png",
+    "copytxt": "(cc0) https://tiles.rc3.world/rc3-2020/structures/rc3-mullana-stars.png"
   },
   {
     "name": "rc3-mullana-floor-wall.png",
     "copytxt": "(cc0) https://tiles.rc3.world/rc3-2020/structures/rc3-mullana-floor-wall.png"
   },
   {
-    "name": "rc3-mullana-functionary.png",
+    "name": "structures_rc3-mullana-functionary.png",
     "copytxt": "(cc0) https://tiles.rc3.world/rc3-2020/structures/rc3-mullana-functionary.png"
   },
-  {
-    "name": "rc3-mullana-modules.png",
-    "copytxt": "(cc0) https://tiles.rc3.world/rc3-2020/structures/rc3-mullana-modules.png"
-  },
-  {
-    "name": "rc3-mullana-overlay.png",
-    "copytxt": "(cc0) https://tiles.rc3.world/rc3-2020/structures/rc3-mullana-overlay"
-  },
-  {
-    "name": "rc3-mullana-stars.png",
-    "copytxt": "(cc0) https://tiles.rc3.world/rc3-2020/structures/rc3-mullana-stars.png"
-  }, 
   {
     "name": "naturkundemuseum.png",
     "copytxt": "(CC0) by dezentrale https://gitlab.com/dezentrale/workadventure/maps/-/blob/master/tilesets/dezentrale_tiles.png"
@@ -122,6 +90,45 @@
   {
     "name": "chemnitz_all.png",
     "copytxt": "CC0BY Chaostreff Chemnitz https://chch.it"
+  },
+  {
+    "name": "scifi_space_rpg_tiles_lpcized.png",
+    "copytxt": "(CC-BY-SA 4.0) by Baŝto, Hyptosis, FunwithPixels and Skorpio https://opengameart.org/content/lpc-hakuna-matetee"
+  },
+  {
+    "name": "hakuna_matetee.png",
+    "copytxt": "(CC-BY-SA 4.0) by Baŝto, Skorpio, Pennomi, bluecarrot16 and Lanea Zimmerman (Sharm) https://opengameart.org/content/lpc-hakuna-matetee"
+  },
+  {
+    "name": "hakuna_matetee2.png",
+    "copytxt": "(CC-BY-SA 4.0) by Baŝto, Hyptosis and Skorpio https://opengameart.org/content/lpc-hakuna-matetee"
+  },
+  {
+    "name": "scifi_hackspace_frama.png",
+    "copytxt": "(CC-BY-SA 4.0) by Baŝto, Hyptosis, FunwithPixels and Skorpio https://opengameart.org/content/lpc-frama-sci-fi-extensions"
+  },
+  {
+    "name": "double_hammock.png",
+    "copytxt": "(CC-BY-SA 4.0) by Baŝto and Wonko https://opengameart.org/content/lpc-frama-sci-fi-extensions"
+  },
+  {
+    "name": "misc.png",
+    "copytxt": "(CC-BY-SA 3.0) by Matthew Nash https://opengameart.org/content/misc-32x32-tiles"
+  },
+  {
+    "name": "Shopping Cart.png",
+    "copytxt": "(CC-BY-SA 3.0) by Eliza Wyatt https://opengameart.org/content/lpc-revised-the-office"
+  },
+  {
+    "name": "Coffee Maker.png",
+    "copytxt": "(CC-BY-SA 3.0) by Eliza Wyatt https://opengameart.org/content/lpc-revised-the-office"
+  },
+  {
+    "name": "Water Cooler.png",
+    "copytxt": "(CC-BY-SA 3.0) by Eliza Wyatt https://opengameart.org/content/lpc-revised-the-office"
+  },
+  {
+    "name": "Laptop.png",
+    "copytxt": "(CC-BY-SA 3.0) by Eliza Wyatt https://opengameart.org/content/lpc-revised-the-office"
   }
-  
 ]
